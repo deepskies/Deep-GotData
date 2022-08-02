@@ -1,4 +1,4 @@
-#from google.cloud import storage, bigquery
+from google.cloud import storage, bigquery
 import numpy as np
 import os
 import json
