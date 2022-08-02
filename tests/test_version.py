@@ -1,4 +1,4 @@
-from example_environment import __version__
+from deep_data import __version__
 
 
 def test_version():
